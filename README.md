@@ -1,3 +1,5 @@
-Installs openjdk6-jre-headless
+Installs openjdk6-jre-headless in an ubuntu docker image.
 
-$ docker build -t java6-jre .
+``` sh
+docker build -t java6-jre .
+```
